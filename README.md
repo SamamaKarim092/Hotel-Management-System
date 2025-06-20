@@ -40,6 +40,11 @@ Input fields for Room Class, Room Number, Service Type, Estimated Time, and Desc
 
 🔴 VIP – Immediate Priority
 
+### Here is the picture of what I made
+
+![image](https://github.com/user-attachments/assets/b79e6f40-a9e8-4703-b1f2-01bb4d02d68e)
+
+
 ## 📊 Real-Time Service Queue
 Displays all pending services with the following details:
 
