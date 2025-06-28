@@ -70,10 +70,10 @@ Description
 - Staff, Actual Time, Final Charge, Status
 
 ## 🧠 Algorithms Implemented
-Priority Scheduling
-Round Robin (with configurable time quantum)
-FCFS
-SJF
+- Priority Scheduling
+- Round Robin (with configurable time quantum)
+- FCFS
+- SJF
 
 
 ## 🚀 Future Enhancements
